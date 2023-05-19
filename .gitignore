@@ -183,3 +183,9 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+.idea/modules.xml
+.idea/challonge-queue.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
+.idea/misc.xml
